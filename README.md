@@ -1,5 +1,5 @@
 # Advanced Java Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Advanced Java Training](https://www.tertiarycourses.com.sg/advanced-java-training-in-singapore.html) course. 
 
