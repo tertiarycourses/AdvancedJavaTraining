@@ -6,6 +6,7 @@ These are the exercise files used for [Advanced Java Training](https://www.terti
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/advanced-java-training-in-singapore.html
+https://www.tertiarycourses.com.my/advanced-java-training-in-malaysia.html
 
 <p><strong>Module 1. Getting Started</strong></p>
 <ul>
